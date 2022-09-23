@@ -34,3 +34,9 @@ section {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.middle-banner{
+    padding-top: 30px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
